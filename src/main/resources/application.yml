@@ -1,0 +1,4 @@
+sr
+  default
+    numberofsongs:100
+    baseurl:http://api.sr.se/api/v2
